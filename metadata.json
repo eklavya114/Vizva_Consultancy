@@ -1,0 +1,8 @@
+
+{
+  "name": "Vizva Consultancy Services",
+  "description": "Premium Governance and Resolution Infrastructure with multi-department parallel processing and USA localization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
